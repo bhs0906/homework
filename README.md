@@ -1,3 +1,3 @@
 ## :trophy: homework
 ***
-* JAVA 학습 과제 기록
+* JAVA 학원 일일 과제 기록
